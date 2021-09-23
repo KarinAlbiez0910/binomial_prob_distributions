@@ -35,8 +35,7 @@ matplotlib.pyplot
 ## **File Descriptions**
 
 
-package 'prob_distributions' containing: Binomialdistribution.py, Gaussiandistribution.py, Generaldistribution.py,
-__init__.py, license.txt, setup.cfg
+package 'prob_distributions' containing: Binomialdistribution.py, Gaussiandistribution.py, Generaldistribution.py, license.txt, setup.cfg
 
 
 ## **Licensing, Authors, Acknowledgements**
@@ -50,4 +49,4 @@ https://pypi.org/project/prob-bin-gauss-distributions/#description
 
 shared and can be installed via:
 
-pip install prob-bin-gauss-distributions
+**pip install prob-bin-gauss-distributions**
